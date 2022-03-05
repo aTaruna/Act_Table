@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Act Table</string>
+    <string name="loginform">Login Form</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="log">Login</string>
+    <string name="logo">Icon</string>
+</resources>
